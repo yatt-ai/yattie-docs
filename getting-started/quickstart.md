@@ -26,19 +26,19 @@ The buttons along the bottom are for managing the testing session and gathering 
 
 <img src="../.gitbook/assets/image (1).png" alt="" data-size="original"> Pauses the test session.
 
-![](<../.gitbook/assets/image (3).png>) Stops the test session.
+![](<../.gitbook/assets/image (2).png>) Stops the test session.
 
 **Evidence gathering buttons:**
 
-![](<../.gitbook/assets/image (6).png>) Begins and ends recording the selected screen/application.
+![](<../.gitbook/assets/image (4).png>) Begins and ends recording the selected screen/application.
 
-![](<../.gitbook/assets/image (2).png>) Takes a screenshot of the selected screen/application.
+![](<../.gitbook/assets/image (5).png>) Takes a screenshot of the selected screen/application.
 
-![](../.gitbook/assets/image.png) Begins and ends recording audio.
+![](<../.gitbook/assets/image (3).png>) Begins and ends recording audio.
 
-![](<../.gitbook/assets/image (4).png>) Add a note (Comment, Problem, Suggestion, Idea, Question, Concern, Positive).
+![](../.gitbook/assets/image.png) Add a note (Comment, Problem, Suggestion, Idea, Question, Concern, Positive).
 
-![](<../.gitbook/assets/image (5).png>) Create a mind map.
+![](<../.gitbook/assets/image (6).png>) Create a mind map.
 
 
 

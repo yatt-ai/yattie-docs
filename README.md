@@ -2,7 +2,7 @@
 
 YATTIE is a tool designed to help testers test.
 
-More specifically, the authors were looking for an extensible, open tool to replace the hodgepodge outilities used during script and exploratory sessions.
+More specifically, the authors were looking for an extensible, open tool to replace the hodgepodge of utilities used during scripted and exploratory testing sessions.
 
 The tooling they found readily available was either:
 
@@ -15,7 +15,7 @@ Or, most often, some dreadful combination of the four!
 
 Thus, YATTIE was born.
 
-Designed with the testing community in mind, YATTIE is open, free, and available on Windows, Mac and Linux.
+Designed with the testing community in mind, YATTIE is open, free, and available on Windows, Mac, and Linux.
 
 ## Downloads and Releases
 

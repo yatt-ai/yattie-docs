@@ -6,19 +6,19 @@
 
 The fastest way to get started testing is to do so without any external connections or the structure of a full exploratory session.
 
-Once you open the app you can choose "New Session" to move into the testing workspace.
+Once you open the app you can choose "Quick Test" to move into the testing workspace.
 
-<figure><img src="../.gitbook/assets/1-quickstart-front-page-start-button.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/yattie_quickTest.png" alt=""><figcaption></figcaption></figure>
 
-This will bring you to the "Test Charter" page.  If you have not defined any [checklists.md](../customizations/checklists.md "mention"), then all fields are optional and you can simply click "Start New Session".
-
-<figure><img src="../.gitbook/assets/2-quickstart-charter-page-start-button.png" alt=""><figcaption></figcaption></figure>
-
-You will be prompted to choose which screen or application you'd like to record and gather evidence from.  Make your selection and choose "Start Recording".
+You will be prompted to choose which screen or application you'd like to record and gather evidence from.  Once you've selected your screen, the session will automatically start recording.
 
 Now you should be in the testing workspace.
 
-<figure><img src="../.gitbook/assets/3-quickstart-test-workspace.png" alt=""><figcaption></figcaption></figure>
+<div data-full-width="false">
+
+<figure><img src="../.gitbook/assets/quickTest_session.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 The buttons along the bottom are for managing the testing session and gathering evidence.
 
@@ -26,7 +26,7 @@ The buttons along the bottom are for managing the testing session and gathering 
 
 <img src="../.gitbook/assets/image (1).png" alt="" data-size="original"> Pauses the test session.
 
-![](<../.gitbook/assets/image (2).png>) Stops the test session.
+<img src="../.gitbook/assets/image (2).png" alt="" data-size="original"> Stops the test session.
 
 **Evidence gathering buttons:**
 
@@ -40,11 +40,23 @@ The buttons along the bottom are for managing the testing session and gathering 
 
 ![](<../.gitbook/assets/image (6).png>) Create a mind map.
 
+![](../.gitbook/assets/icon\_minimize.png) Minimize to focus on your selected screen. Maximize at the top right to bring back.
+
+![](../.gitbook/assets/icon\_more.png) Click for additional menu items: Change recording target
+
+![](<../.gitbook/assets/Screenshot 2023-07-29 at 4.51.59 PM.png>) Create a new Issue (when logged in with an issue tracker such as Jira)
 
 
-Once you have finished collecting evidence, you can click the "Stop" button which takes you to the test summary screen.
 
-The right-hand column is of particular interest on this screen, as it contains all of the evidence gained in chronological order.
+Once you have finished collecting evidence, you can click the "Stop" button which prompts you to summarize your test session with a comment.
+
+<div data-full-width="false">
+
+<figure><img src="../.gitbook/assets/quicktest_summary.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Once saved, you are taken to the full test summary screen. The right-hand column is of particular interest on this screen, as it contains all of the evidence gained in chronological order.
 
 <figure><img src="../.gitbook/assets/4-quickstart-test-summary-evidence-column.png" alt=""><figcaption></figcaption></figure>
 

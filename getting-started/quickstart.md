@@ -60,7 +60,7 @@ Once saved, you are taken to the full test summary screen. The right-hand column
 
 <figure><img src="../.gitbook/assets/4-quickstart-test-summary-evidence-column.png" alt=""><figcaption></figcaption></figure>
 
-In this column, you can selected evidence to be exported (there are checkboxes on the right hand side).  Once you have selected the evidence you are interested in, you can click the "Export" button and choose where to save the zipped evidence.
+In this column, you can select evidence to be exported (there are checkboxes on the right-hand side).  Once you have selected the evidence you are interested in, you can click the "Export" button and choose where to save the zipped evidence.
 
 <figure><img src="../.gitbook/assets/5-quickstart-test-summary-export-button.png" alt=""><figcaption></figcaption></figure>
 

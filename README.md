@@ -31,6 +31,10 @@ YATTIE strives to streamline this by providing an easy-access Swiss Army knife f
 
 As a tool focused primarily on exploration and discovery, YATTIE tries not to be prescriptive on workflow or process.  Instead, it provides the tools necessary to conduct freeform exploration with the option for users to configure more structure as desired.
 
+{% embed url="https://david-8257.wistia.com/medias/r8969dsniy" %}
+YATTIE Overview
+{% endembed %}
+
 ### Getting Started:
 
 Follow our guides to get up and running as quickly as possible:

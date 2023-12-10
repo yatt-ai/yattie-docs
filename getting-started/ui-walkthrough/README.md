@@ -2,6 +2,10 @@
 
 The YATTIE app consists of several screens with different intents and purposes.
 
+{% embed url="https://david-8257.wistia.com/medias/r8969dsniy" %}
+YATTIE Walkthrough
+{% endembed %}
+
 Here we provide a general overview of each.  For a more "task based" review of functionality, check out our guides section:
 
 {% content-ref url="../guides/" %}

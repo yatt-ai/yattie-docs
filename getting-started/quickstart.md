@@ -68,5 +68,5 @@ You can then find the evidence wherever you saved it - zipped up in a ZIP archiv
 
 
 
-For a more thorough review of features, you can checkout the [ui-walkthrough](ui-walkthrough/ "mention") page.  For information on directly exporting evidence to your issue tracker or test case management tool of choice, please checkout the [Broken link](broken-reference "mention")pages.
+For a more thorough review of features, you can checkout the [ui-walkthrough.md](../product-tour/ui-walkthrough.md "mention") page.  For information on directly exporting evidence to your issue tracker or test case management tool of choice, please checkout the [Broken link](broken-reference "mention")pages.
 

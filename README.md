@@ -47,8 +47,8 @@ Follow our guides to get up and running as quickly as possible:
 [quickstart.md](getting-started/quickstart.md)
 {% endcontent-ref %}
 
-{% content-ref url="getting-started/ui-walkthrough/" %}
-[ui-walkthrough](getting-started/ui-walkthrough/)
+{% content-ref url="product-tour/ui-walkthrough.md" %}
+[ui-walkthrough.md](product-tour/ui-walkthrough.md)
 {% endcontent-ref %}
 
 ### Integrations

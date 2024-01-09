@@ -8,8 +8,8 @@ YATTIE Walkthrough
 
 Here we provide a general overview of each.  For a more "task based" review of functionality, check out our guides section:
 
-{% content-ref url="../guides/" %}
-[guides](../guides/)
+{% content-ref url="guides/" %}
+[guides](guides/)
 {% endcontent-ref %}
 
 \
@@ -30,9 +30,3 @@ Otherwise, if you've interested in a more thorough rundown of the various screen
 {% content-ref url="evidence-capture-pages/" %}
 [evidence-capture-pages](evidence-capture-pages/)
 {% endcontent-ref %}
-
-{% content-ref url="settings-page.md" %}
-[settings-page.md](settings-page.md)
-{% endcontent-ref %}
-
-## Evidence Capture Screens
